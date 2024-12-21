@@ -1,0 +1,2 @@
+Cada clase va a ser un proceso con su tipo de algoritmo que heredan de la clase nativa Thread, y se relaciona cada una con el main.
+El main tendria la jerarquia de cada proceso y un menu interactivo con el que asignar valores a los procesos (Supongamos con un switch case).
